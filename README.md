@@ -30,8 +30,11 @@ Los campos que se extraen son:
 * enlaces
 * titulos
 
-### Ficheros
+### Ficheros y enlaces
 
-* El fichero ejecutable se llama: *main.py* 
-* El fichero .csv generado se llama: *Pisos en venta en Madrid Capital.csv*
+* El fichero ejecutable se llama: **main.py**
+* El fichero .csv generado se llama: **Inmuebles en venta en Madrid Capital.csv**
+* La memoria se llama **memoria.pdf**
+* El fichero **requirements.txt** y **robots.txt** se encuentran en la carpeta /source
+* El DOI de Zenodo del dataset generado es el siguiente: *https://doi.org/10.5281/zenodo.7348662*
 
